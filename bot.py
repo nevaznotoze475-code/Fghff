@@ -24,7 +24,7 @@ from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.exceptions import TelegramBadRequest, TelegramNotFound
 from aiogram.client.default import DefaultBotProperties
-from custom_methods import GetFixedBusinessAccountStarBalance, GetFixedBusinessAccountGifts, TransferGift, TransferStars, DepositStates, StarAmount, Gift, GiftInfo, GiftList
+from custom_methods import GetFixedBusinessAccountStarBalance, GetFixedBusinessAccountGifts, TransferGift, TransferStars, DepositStates, StarAmount, Gift
 from uuid import uuid4
 from typing import Dict, List, Any, Union
 
