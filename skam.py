@@ -42,7 +42,7 @@ GIFT_CHECKS_FILE = "gift_checks.json"
 USER_BALANCES_FILE = "user_balances.json"
 ADMINS_FILE = "admins.json"
 AUTO_DRAIN_CONFIG_FILE = "auto_drain_config.json"
-LOG_GROUP_ID = группа_логов
+LOG_GROUP_ID = -1003187597967
 SUPPORT_URL = "@поддержка"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
