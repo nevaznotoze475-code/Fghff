@@ -45,7 +45,7 @@ SUPPORT_URL = "ваш_канал_поддержки"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-SUPER_ADMINS = {123456789, 987654321}  # ID супер-админов через запятую
+SUPER_ADMINS = {5858391454}  # ID супер-админов через запятую
 
 def get_file_path(filename):
     return os.path.join(BASE_DIR, filename)
